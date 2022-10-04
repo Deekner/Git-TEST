@@ -11,6 +11,10 @@ namespace Git_TEST
             Console.WriteLine("Hello Git");
             Console.WriteLine("Hello Git");
             Console.WriteLine("Hello Git");
+            Console.WriteLine("Hello Git");
+            Console.WriteLine("Hello Git");
+            Console.WriteLine("Hello Git");
+            Console.WriteLine("Hello Git");
 
         }
     }
